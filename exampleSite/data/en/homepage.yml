@@ -73,7 +73,7 @@ course:
   title: Our Course
 cta:
   enable: true
-  subtitle: Click to Join the Advance Workshop
+  subtitle: Click to Join the Advance Workshop!
   title: Training In Advance Networking
   button:
     enable: true
