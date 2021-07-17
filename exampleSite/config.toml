@@ -7,7 +7,7 @@ theme = "educenter-hugo"
 title = "Jay i School"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021 Jay International School"
+copyright = "Copyright &copy; 2021 Jay International School "
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
