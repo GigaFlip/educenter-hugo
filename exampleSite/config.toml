@@ -69,7 +69,7 @@ url = "contact"
 weight = 5
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2021Jay International School"
+copyright = "Copyright &copy; 2021 Jay International School"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
