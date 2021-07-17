@@ -4,10 +4,16 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Home
+- type: directory
+  path: exampleSite/content/english/about
+  label: Home (en)
+  create: documents
+  match: "**/*"
 - type: document
   path: exampleSite/content/english
-  label: Home
-  match: "**/*"
+  label: Home (en)
 - type: heading
   label: Blog Post
 - type: directory
@@ -175,7 +181,7 @@ sections:
 - type: directory
   path: exampleSite/content/english
   label: All Pages (en)
-  create: all
+  create: none
   match: "**/*"
   templates:
   - new-page
