@@ -137,7 +137,7 @@ description = "Home page of Jay International School (CBSE), Megnanapuram, Tiruc
 email = "info@jayschool.edu.in"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+91 93846 12345"
+mobile = "+91 9384612345"
 top_header = true
 [params.cookies]
 enable = true
