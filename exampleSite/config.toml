@@ -130,14 +130,14 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+address = "Sathankulam Main Rd, Nangaimozhi, Megnanapuram, Tiruchendur Taluk, Tamil Nadu 628210"
+author = "Jay International School"
 contact_form_action = "#"
-description = "This is meta description"
-email = "info@educenter.com"
+description = "Home page of Jay International School (CBSE), Megnanapuram, Tiruchendur, Tamil Nadu"
+email = "info@jayschool.edu.in"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "+91 93846 12345"
 top_header = true
 [params.cookies]
 enable = true
