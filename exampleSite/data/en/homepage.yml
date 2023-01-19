@@ -4,9 +4,10 @@ slider:
   bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+    content: Our mission is to help you create a bright future for yourself. 
+      We believe that everyone has the potential to achieve their goals and dreams, 
+      and we are committed to providing you with the resources, support, 
+      and guidance you need to make those goals a reality.
     animation_in: left
     animation_out: right
     button:
