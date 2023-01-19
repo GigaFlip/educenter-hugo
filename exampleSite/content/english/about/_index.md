@@ -2,7 +2,8 @@
 title: About Us
 bg_image: images/backgrounds/page-title.jpg
 image: images/about/about-page.jpg
-description: The motto of our school is 'PREPARE FOR LIFE'
+description: The motto of our school is 'PREPARE FOR LIFE'.
+
   This tagline emphasizes that the school is dedicated to equipping students with 
   the skills, knowledge, and confidence they need to navigate the complexities 
   of the modern world and achieve their goals.
