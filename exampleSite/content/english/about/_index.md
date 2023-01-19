@@ -2,9 +2,10 @@
 title: About Us
 bg_image: images/backgrounds/page-title.jpg
 image: images/about/about-page.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: The motto of our school is 'PREPARE FOR LIFE'
+  This tagline emphasizes that the school is dedicated to equipping students with 
+  the skills, knowledge, and confidence they need to navigate the complexities 
+  of the modern world and achieve their goals.
 
 ---
 ## ABOUT OUR JOURNEY
